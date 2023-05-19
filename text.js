@@ -177,7 +177,7 @@ function sendToChatGPT(message) {
   };
 
   const headers = {
-    Authorization: 'Bearer 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',
+    Authorization: 'Bearer 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',
   };
 
   axios
